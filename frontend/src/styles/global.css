@@ -1,0 +1,58 @@
+body {
+  font-family: "Inter", "Noto Sans", "Noto Sans JP", "Noto Sans KR",
+               "Noto Sans Arabic", "Noto Sans Hebrew",
+               sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #f5f7fb;
+  color: #222;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.button {
+  background: #59acfaff;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  background: #59acfaff;
+}
+
+.card {
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+  margin-bottom: 16px;
+}
+
+.timeline-container {
+  width: 100%;
+  height: 80px;
+  background: #e5e7eb;
+  border-radius: 6px;
+  display: flex;
+  overflow: hidden;
+}
+
+.timeline-segment {
+  height: 100%;
+}
