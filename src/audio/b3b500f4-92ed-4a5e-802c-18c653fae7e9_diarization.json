@@ -1,0 +1,100 @@
+[
+  {
+    "speaker": "Target",
+    "start": 0.008488964346349746,
+    "end": 1.4855687606112054,
+    "text": "Bro....",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Target",
+    "start": 3.0814940577249574,
+    "end": 4.3718166383701185,
+    "text": "She's look good..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 4.796264855687607,
+    "end": 6.290322580645162,
+    "text": "Like a showrunner..",
+    "confidence": 0.5255208864863347
+  },
+  {
+    "speaker": "Target",
+    "start": 6.324278438030561,
+    "end": 7.359932088285229,
+    "text": "Never along..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Target",
+    "start": 8.00509337860781,
+    "end": 19.074702886247877,
+    "text": "I got just about the biggest box you'll ever imagine. Well there's the um there's the um new Lego City Airport..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 19.889643463497457,
+    "end": 26.511035653650254,
+    "text": "City Airport as in City Airport in London? Yeah. Yeah? Oh my god, it sounds amazing. That was um....",
+    "confidence": 0.5255208864863347
+  },
+  {
+    "speaker": "Target",
+    "start": 25.848896434634973,
+    "end": 29.465195246179967,
+    "text": "They all, they're usually, they always cleaved the store, we understand what was gonna happen,. But then they filled it up, they \ubcd1ulbied itye in her odor, they were gonna buy it for me,. And they told me that it means that we were gonna buy it ourselves. I know that that's the kind of shit they did when by the end of the year. Come Ago, keep your heart ine socks, keep your slippers, your characteristic structures thin, keep your feetwhile tucked away from the ceiling. They'll use them,.",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Target",
+    "start": 30.823429541595928,
+    "end": 33.26825127334465,
+    "text": "Well, imagine not, though..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Target",
+    "start": 35.0679117147708,
+    "end": 40.908319185059426,
+    "text": "245th of the 1294..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Speaker_2",
+    "start": 41.04414261460102,
+    "end": 41.6553480475382,
+    "text": "Yes..",
+    "confidence": 0.5126701660428998
+  },
+  {
+    "speaker": "Target",
+    "start": 43.09847198641766,
+    "end": 49.49915110356537,
+    "text": "And once my uncles study and come out again..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 50.34804753820034,
+    "end": 54.269949066213925,
+    "text": "Oh my God, it's been sort of what New Year's Day is..",
+    "confidence": 0.5255208864863347
+  },
+  {
+    "speaker": "Target",
+    "start": 53.79456706281834,
+    "end": 54.45670628183362,
+    "text": "Oh! No, I'm just kidding..",
+    "confidence": 0.674289294818312
+  },
+  {
+    "speaker": "Target",
+    "start": 55.22071307300509,
+    "end": 55.69609507640068,
+    "text": "MMM.",
+    "confidence": 0.674289294818312
+  }
+]

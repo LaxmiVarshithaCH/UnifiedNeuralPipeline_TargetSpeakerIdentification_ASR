@@ -1,0 +1,30 @@
+[
+  {
+    "speaker": "Speaker_1",
+    "start": 0.008488964346349746,
+    "end": 4.915110356536502,
+    "text": "Yeah..",
+    "confidence": 0.5147961869687891
+  },
+  {
+    "speaker": "Target",
+    "start": 7.66553480475382,
+    "end": 22.707979626485567,
+    "text": "And she found the old building where she used to live um. And she um went and sight-sighted.",
+    "confidence": 0.6503790824327553
+  },
+  {
+    "speaker": "Target",
+    "start": 24.864176570458405,
+    "end": 28.225806451612904,
+    "text": "And she started to have a look around..",
+    "confidence": 0.6503790824327553
+  },
+  {
+    "speaker": "Target",
+    "start": 30.97623089983022,
+    "end": 31.502546689303905,
+    "text": "Thank you..",
+    "confidence": 0.6503790824327553
+  }
+]
