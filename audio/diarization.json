@@ -1,0 +1,149 @@
+[
+  {
+    "speaker": "Speaker_0",
+    "start": 0.008488964346349746,
+    "end": 0.432937181663837,
+    "text": "",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 0.7555178268251275,
+    "end": 1.4855687606112054,
+    "text": "Well um.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 3.0814940577249574,
+    "end": 4.3718166383701185,
+    "text": "Well you heard of the logo.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 4.796264855687607,
+    "end": 6.290322580645162,
+    "text": "Like a showrunner.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 6.324278438030561,
+    "end": 7.359932088285229,
+    "text": "Yeah, well...",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 8.00509337860781,
+    "end": 19.074702886247877,
+    "text": "I got just about the biggest box you'll ever imagine. Well, there's the new Lego City Airport.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 19.889643463497457,
+    "end": 22.707979626485567,
+    "text": "City airport as in city airport in London.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 22.945670628183365,
+    "end": 23.35314091680815,
+    "text": "Yeah.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 24.813242784380307,
+    "end": 26.511035653650254,
+    "text": "Oh my god, it sounds so good.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 25.848896434634973,
+    "end": 26.612903225806456,
+    "text": "There was a...",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 27.10526315789474,
+    "end": 27.546689303904927,
+    "text": "",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 27.903225806451616,
+    "end": 29.465195246179967,
+    "text": "Yeah, of course I have.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 30.823429541595928,
+    "end": 33.26825127334465,
+    "text": "Imagine nine o'clock.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 35.0679117147708,
+    "end": 38.61629881154499,
+    "text": "24th of the 1294.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 39.60101867572156,
+    "end": 40.02546689303905,
+    "text": "Yes.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 40.26315789473684,
+    "end": 40.908319185059426,
+    "text": "It's a big mistake.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_2",
+    "start": 41.04414261460102,
+    "end": 41.6553480475382,
+    "text": "Yes.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Target",
+    "start": 43.09847198641766,
+    "end": 49.49915110356537,
+    "text": "And I want my uncles to study and don't come out again.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_1",
+    "start": 50.34804753820034,
+    "end": 54.269949066213925,
+    "text": "Oh my God, it's been sort of what New Year's Day is.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 53.79456706281834,
+    "end": 54.45670628183362,
+    "text": "Haha.",
+    "confidence": 0.5
+  },
+  {
+    "speaker": "Speaker_0",
+    "start": 55.22071307300509,
+    "end": 55.69609507640068,
+    "text": "Mu.",
+    "confidence": 0.5
+  }
+]
